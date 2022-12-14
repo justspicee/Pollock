@@ -51,7 +51,7 @@
     "concurrently": "^6.0.0",
     "cross-env": "^7.0.3",
     "dotenv": "^8.2.0",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "html-webpack-plugin": "^5.3.1",
     "jest": "^26.6.3",
     "passport": "^0.4.1",
